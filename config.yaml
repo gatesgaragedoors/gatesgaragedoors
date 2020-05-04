@@ -1,17 +1,17 @@
-title: Stackbit Ampersand Theme
+title: Emergency Gate Repair
 baseURL: /
 params:
   layout_style: grid
-  palette: green
+  palette: blue
   header:
-    title: Ampersand
-    logo_img: images/logo.png
+    title: Emergency Gate Repair
+    logo_img: /images/emergency-gate-repair.png
     has_nav: true
   footer:
-    content: '&copy; All rights reserved.'
+    content: Emergency Gate repair; All rights reserved.
     links:
       - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+        url: https://www.stackbit.com
         new_window: true
     has_social: true
 disableKinds:
